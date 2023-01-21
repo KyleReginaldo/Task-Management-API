@@ -1,0 +1,5 @@
+{
+    "nuxt.isNuxtApp": false,
+    // "editor.codeActionsOnSave": { "source.fixAll": true },
+    // "editor.formatOnSave": false,
+}
